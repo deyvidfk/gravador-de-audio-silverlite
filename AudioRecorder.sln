@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioRecorder", "AudioRecorder\AudioRecorder.csproj", "{D580C944-0FE1-42A6-AC06-F45BAD0F58FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{664C755F-2AD6-484B-A829-7704496581B3} = {664C755F-2AD6-484B-A829-7704496581B3}
+		{664C755F-2AD6-484B-A829-7704496581B3} = {664C755F-2AD6-484B-A829-7704496581B3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioRecorder.Web", "AudioRecorder.Web\AudioRecorder.Web.csproj", "{664C755F-2AD6-484B-A829-7704496581B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D580C944-0FE1-42A6-AC06-F45BAD0F58FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D580C944-0FE1-42A6-AC06-F45BAD0F58FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D580C944-0FE1-42A6-AC06-F45BAD0F58FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D580C944-0FE1-42A6-AC06-F45BAD0F58FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664C755F-2AD6-484B-A829-7704496581B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664C755F-2AD6-484B-A829-7704496581B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664C755F-2AD6-484B-A829-7704496581B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664C755F-2AD6-484B-A829-7704496581B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

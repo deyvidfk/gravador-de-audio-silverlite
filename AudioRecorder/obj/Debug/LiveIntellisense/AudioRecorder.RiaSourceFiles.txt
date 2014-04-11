@@ -1,0 +1,1 @@
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\AudioRecorder.Web.csproj,635200466100062937,Properties\AssemblyInfo.cs,Properties\Resources.Designer.cs,Upload.ashx.cs,

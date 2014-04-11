@@ -1,0 +1,2 @@
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder
+Generated_Code\AudioRecorder.Web.g.cs

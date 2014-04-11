@@ -1,0 +1,38 @@
+C:\projekty\IKS2009\Silverlight4\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\projekty\IKS2009\Silverlight4\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\projekty\IKS2009\Silverlight4\AudioRecorder\AudioRecorder.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\projekty\IKS2009\Silverlight4\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\projekty\IKS2009\Silverlight4\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb
+C:\Users\svacino\Desktop\ITP2010\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\Users\svacino\Desktop\ITP2010\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\Users\svacino\Desktop\ITP2010\AudioRecorder\AudioRecorder.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\svacino\Desktop\ITP2010\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\Users\svacino\Desktop\ITP2010\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb
+C:\Users\svacino\Desktop\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\Users\svacino\Desktop\AudioRecorder\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\Users\svacino\Desktop\AudioRecorder\AudioRecorder.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\svacino\Desktop\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\Users\svacino\Desktop\AudioRecorder\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.Properties.Resources.resources
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\AudioRecorder_SL4RTW\AudioRecorder.Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.Properties.Resources.resources
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\Visual Studio 2010\Projects\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\bin\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\bin\AudioRecorder.Web.pdb
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.csprojResolveAssemblyReference.cache
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.Properties.Resources.resources
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.csproj.GenerateResource.Cache
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.dll
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\obj\Debug\AudioRecorder.Web.pdb

@@ -1,0 +1,1 @@
+C:\Users\deyvid.souza\Documents\DEVELOPMENT\TESTES\Gravador de audio em Silverlight\Gravador de audio em Silverlight\AudioRecorder.Web\AudioRecorder.Web.csproj,635200502120000000,Properties\AssemblyInfo.cs,Properties\Resources.Designer.cs,Upload.ashx.cs,
